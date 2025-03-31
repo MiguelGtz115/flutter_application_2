@@ -59,7 +59,7 @@ class _HomePageState extends State<HomePage> {
                       //negrita
                       //subrayado
                     )),
-                Text("Eat",
+                Text(" Eat",
                     style: TextStyle(
                         //tamaño de letra
                         fontSize: 32,

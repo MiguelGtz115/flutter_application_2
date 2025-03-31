@@ -20,7 +20,7 @@ class MyTab extends StatelessWidget {
           child: Image.asset(
             //Ruta del archivo
             iconPath,
-            color: Colors.grey[200],
+            color: Colors.black,
           )),
     );
   }
